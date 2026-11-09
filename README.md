@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas Cosma
 
-<!--
+
 Computer Science Student at Maynooth University, Ireland.
 
 Aspiring Software Engineer | Interested in Backend Development, Software Engineering and Technology
@@ -86,4 +86,3 @@ June 2025–Present
 - **Email:** lucascosma2006@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/lucas-cosma-828867448/
 
--->
